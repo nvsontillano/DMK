@@ -1,2 +1,2 @@
 # DMK
-CS145 DMK iOS Application
+CS145 DMK Server
